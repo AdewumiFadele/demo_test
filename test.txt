@@ -1,0 +1,3 @@
+Hi, everyone.
+This is my first git repository test.
+I hope you find it cool that a dude as small as me decided to take up something even cooler.
